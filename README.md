@@ -1,8 +1,4 @@
-## 👋 Hello World, I'm [Samuel Makanjuola]!
-
-I'm a versatile Software Engineer and Full Stack Web Developer with a passion for turning innovative ideas into robust, user-friendly applications. My skill set spans a wide range of technologies and frameworks, allowing me to contribute effectively to various stages of the development lifecycle.
-
-### 👋 Hey there, I'm [Your Name]!
+## 👋 Hello there, I'm [Samuel Makanjuola]!
 
 I'm a versatile Software Engineer and Full Stack Web Developer with a passion for turning innovative ideas into robust, user-friendly applications. My skill set spans a wide range of technologies and frameworks, allowing me to contribute effectively to various stages of the development lifecycle.
 
