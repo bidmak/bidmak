@@ -30,7 +30,7 @@ I'm a versatile Software Engineer and Full Stack Web Developer with a passion fo
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/samuel-makanjuola-8118a0212/)
-- [Portfolio](https://www.samuelbidmak.com)
+- [Portfolio](https://samuelbidmak.com)
 - [Twitter](https://twitter.com/bidmak007)
 
 Let's collaborate and build something amazing! 🚀
